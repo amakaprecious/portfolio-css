@@ -1,0 +1,61 @@
+.change{
+    background-color: palevioletred;
+}
+a{
+    color: azure;
+    font-size: 1rem;
+    padding: 10px;
+    font-style: inherit;
+    text-decoration: solid;
+    text-decoration: underline;
+}
+.alchemy{
+    background-color: rgb(165, 44, 100);
+        width: 40%;
+        height: 1cm;
+        margin: auto;
+    }
+    .office{
+       font-size: x-large; 
+       font-style: normal;
+       color: azure;
+       text-align: center;
+       text-decoration: solid;
+    }
+
+.friends{
+    color: azure;
+    font-size: larger;
+    text-decoration: wavy;
+}
+.brain{
+    color: beige;
+    font-size: medium;
+}  
+.frames{
+    color: azure;
+    text-align: center;
+    text-transform: uppercase;
+}
+.lab{
+    color: azure;
+    border: 3px dashed rgb(143, 33, 52);
+    border: width 5px;
+}
+.black{
+    color: azure;
+    text-align: center;
+    text-transform: uppercase;
+}
+.balance{
+    color: azure;
+}
+.ife{
+    border: 5px solid rgb(143, 33, 52);
+}
+.blood{
+    background-color: rgb(143, 33, 52);
+    width: 40%;
+    margin: auto;
+}
+
